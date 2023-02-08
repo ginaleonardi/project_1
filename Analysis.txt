@@ -1,0 +1,38 @@
+Introduction
+The Household Pulse Survey is a 20-minute online survey, conducted by the Census Bureau, studying how the coronavirus pandemic and other emergent issues are impacting households across the country from a social and economic perspective.
+We reviewed survey data from December 29, 2021- January 4, 2023.
+Each survey has a 1-4 scale for frequency of anxiety, worry, depression and lack of interest; 4 being the highest. 
+  1: Not at all
+  2: Several days
+  3: More than half of days
+  4: Nearly every day
+
+We found over the course of year anxiety frequency increased.
+The highest average being closer to the holidays
+The West region of the United States reported higher feelings of anxiety.
+The Midwest reported the least.
+
+Do people with kids have higher levels of anxiety?
+There was a total of 509,655(70.91%) surveys reported no kids in the household and 209,098(29.09%) kids living at home between the ages of 0-17
+We found that 65% people reported feeling anxious nearly everyday did not have any kids.
+	
+Does Homeownership impact feelings?
+The majority of survey respondents owned a home with a mortgage (308,958), and the fewest live without paying rent (8382). "Rent free" is specified that no one in the home is paying rent, so this includes people experiencing homelessness.
+Across all homeownership statuses, feelings of anxiety are experienced more often than feelings of lonely, interest, and down.
+People who own their homes outright reported feeling anxiety less frequently than others.
+People who both rent and live without paying rent experience the highest instances of anxiety.
+
+Does Race and Gender have a significant impact on reported anxiety?
+
+Summary
+We each found that Anxiety was the Highest reported feeling in all categories. 
+It is common that symptoms of depression increase during winter/holiday months. The Midwest reported the least amount of anxiety.
+The majority of survey takers did not have any children and but also reported more anxiety. 
+People who rent and live without paying rent experience the highest instances of anxiety.
+People who identify as Bi-Racial or Race not listed reported higher feelings of anxiety.
+The majority of survey takers identify as female.
+While only 0.4% of survey takers identify as Transgender, they reported the highest levels of anxiety. 
+
+
+
+
