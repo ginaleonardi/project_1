@@ -4,8 +4,10 @@ Homeowner Status:
 - The majority of survey respondents owned a home with a mortgage (308,958), and the fewest live without paying rent (8382) between December 29, 2021 and January 4, 2023. "Rent free" is specified that no one in the home is paying rent, so this includes people experiencing homelessness.
 - Across all homeownership statuses, feelings of anxiety are experienced more often than feelings of lonely, interest, and down.
 - People who own their homes outright reported feeling anxiety less frequently than others.
-- People who both rent and live without paying rent experience the highest instances of anxiety.
+- People who both rent and live without paying rent experience the highest instances of anxiety, with average responses of 2.27 and 2.31.
 
+
+ - Surveys were distributed by sending to homes, which may have impacted the least represented groups.
 
 Income:
 - Anxiety level is higher for those who make less money, and this pattern is consistent between all income levels.
