@@ -1,4 +1,4 @@
-**Introduction**
+**Introduction**<br /><br />
 The Household Pulse Survey is a 20-minute online survey, conducted by the Census Bureau, studying how the coronavirus pandemic and other emergent issues are impacting households across the country from a social and economic perspective.<br />
 We reviewed survey data from December 29, 2021- January 4, 2023.<br /><br />
 Each survey has a 1-4 scale for frequency of anxiety, worry, depression and lack of interest; 4 being the highest. <br />
@@ -34,7 +34,7 @@ While the survey was conducted over a random swath of the USA population, the ge
 This pie graph was from a separate line of inquiry, however I found it interesting and so I wanted to present it briefly. One of the hardest aspects of measuring sexual orientation is that people identify this themselves, so if they are not out to the public, or themselves the data will reflect that. 
 <br />
 <br />
-**Summary**
+**Summary**<br /><br />
 We each found that Anxiety was the Highest reported feeling in all categories.<br /> 
 It is common that symptoms of depression increase during winter/holiday months. The Midwest reported the least amount of anxiety.<br />
 The majority of survey takers did not have any children and but also reported more anxiety. <br />
