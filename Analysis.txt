@@ -23,6 +23,15 @@ People who own their homes outright reported feeling anxiety less frequently tha
 People who both rent and live without paying rent experience the highest instances of anxiety.
 
 Does Race and Gender have a significant impact on reported anxiety?
+Asian identifying people have the least anxiety. What is interesting is that black and white identifying peoples have similar anxiety levels. 
+Mixed race or other identifying people have the highest average anxiety levels.
+Average Anxiety by Gender:
+his chart is quite telling as it matches with critical gender theories about levels of privilege in society—the more privilege a gender group has, the lower their levels of anxiety. More research is needed to see if there are other contributing factors to this paradigm. 
+Gender of Survey Respondents:
+While the survey was conducted over a random swath of the USA population, the genders do not seem to participate in the survey at equal rates as 57% of respondents are female and 42% are male. This is not representative of the genders of the USA population, which is very close to even between men and women, leading me to the conclusion that women are more likely to agree to participate in the survey than men. In our Anxiety analysis we see that women have higher average anxiety levels than men, and since they participated in the survey at higher rates, we can infer that the data in our analysis is skewed towards women respondents, or away from men. 
+Sexual Orientation as Percent of USA Population:
+This pie graph was from a separate line of inquiry, however I found it interesting and so I wanted to present it briefly. One of the hardest aspects of measuring sexual orientation is that people identify this themselves, so if they are not out to the public, or themselves the data will reflect that. 
+
 
 Summary
 We each found that Anxiety was the Highest reported feeling in all categories. 
