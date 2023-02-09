@@ -1,17 +1,16 @@
 **Household Pulse Survey**
 **Group project 1**
 
-The Household Pulse Survey is a 20-minute online survey, conducted by the Census Bureau, studying how the coronavirus pandemic and other emergent issues are impacting households across the country from a social and economic perspective.<br />
+The Household Pulse Survey is a 20-minute online survey, conducted by the Census Bureau, studying how the coronavirus pandemic and other emergent issues are impacting households across the country from a social and economic perspective.<br /><br />
 We reviewed survey data from December 29, 2021- January 4, 2023.
-<br />
-Each survey has a 1-4 scale for frequency of anxiety, worry, depression and lack of interest; 4 being the highest. 
-  1: Not at all<br />
+<br /><br />
+Each survey has a 1-4 scale for frequency of anxiety, worry, depression and lack of interest; 4 being the highest. <br /><br />  1: Not at all<br />
   2: Several days<br />
   3: More than half of days<br />
   4: Nearly every day<br />
-<br /><br /><br />
+<br /><br />
 **Summary of Analysis**
-<br />
+<br /><br />
 We each found that Anxiety was the Highest reported feeling in all categories. <br />
 It is common that symptoms of depression increase during winter/holiday months.<br />
 The Midwest reported the least amount of anxiety.<br />
